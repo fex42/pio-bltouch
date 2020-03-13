@@ -21,12 +21,12 @@
 
 Servo blControl;
 
-const String CMD_DOWN("down");
-const String CMD_UP("up");
-const String CMD_TEST("test");
-const String CMD_ALARM("alarm");
-const String CMD_CONFIG("config");
-const String CMD_HELP("help");
+const String CMD_DOWN("d");
+const String CMD_UP("u");
+const String CMD_TEST("t");
+const String CMD_ALARM("a");
+const String CMD_CONFIG("c");
+const String CMD_HELP("h");
 
 #define L String
 #define ENDL String('\n')
